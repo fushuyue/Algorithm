@@ -1,23 +1,9 @@
 # Self-Learning 
-learn data structure and algorithm by myself :(<br>
-realized by c++
+Read Algorithms and keep tracks of my reading everyday.
+Realized algorithm by c++ / java / python.
 
-##Data structure
-- linked list
-- hash table
-- queue
-- stack
+## 20191231
+- Chapter 1.1 basic programming model Page 1-25
+- Test S1707A millions time with old dataset from S1705A and failed as expected
+- Happy New Year
 
-##Algorithm
-- big O
-- recursion
-
-
-
-___
-> 
-Shuyue Fu<br>
-MSFE candidate at University of Illinois at Urbana-Champaign<br>
-My Resume：[Shuyue Fu](https://github.com/fushuyue/Financial_Computing/raw/master/MyResume/MyResume.pdf)<br>
-My Linkedln：[Linkedln](https://www.linkedin.com/in/shuyuefu)<br>
-My Email：sfu11@illinois.edu
