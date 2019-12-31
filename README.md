@@ -1,5 +1,5 @@
 # Self-Learning 
-Read Algorithms and keep tracks of my reading everyday.
+Read Algorithms and keep tracks of my read and work everyday.
 Realized algorithm by c++ / java / python.
 
 ## 20191231
