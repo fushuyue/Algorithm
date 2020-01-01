@@ -8,5 +8,5 @@ Realized algorithm by c++ / java / python.
 - Test S1707A millions time with old dataset from S1705A and failed as expected
 - Happy New Year
 
-## 20191231
+## 20200101
 - Test S1707A millions time with old dataset from S1705A and failed as expected
