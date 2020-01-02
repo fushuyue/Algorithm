@@ -14,3 +14,4 @@ Realized algorithm by c++ / java / python.
 ## 20200102
 - Test S1707A millions time with new dataset and seemingly got some decent results
 - Core Jave: Chapter 4 - 4.6
+- Algorithms: Chapter 1.1 basic programming model,page 25-34
