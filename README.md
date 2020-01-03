@@ -15,3 +15,7 @@ Realized algorithm by c++ / java / python.
 - Test S1707A millions time with new dataset and seemingly got some decent results
 - Core Jave: Chapter 4 - 4.6
 - Algorithms: Chapter 1.1 basic programming model,page 25-34
+
+## 20200103
+- Sad story, yesterday's results came from a wrong dataset my colleague gave me ...
+- Test S1707A millions time with old dataset from S1705A and failed as expected
