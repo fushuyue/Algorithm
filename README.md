@@ -19,3 +19,8 @@ Realized algorithm by c++ / java / python.
 ## 20200103
 - Sad story, yesterday's results came from a wrong dataset my colleague gave me ...
 - Test S1707A millions time with old dataset from S1705A and failed as expected
+
+## 20200106
+- Large draw backs from S1705A.
+- Test S1707A millions time with new dataset 
+- Start working on high frequency strategy
